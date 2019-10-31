@@ -13,7 +13,7 @@ This repository contains 2 files:
 This assignment contains 4 problems.
 
 - Problem 1 is worth **50 points**
-- Problem 2 is worth **50 points**
+- Problem 2 is worth ****50** points**
 
 If you have any questions, please ask them in the #questions channel on Slack. I'm happy to assist.
 
