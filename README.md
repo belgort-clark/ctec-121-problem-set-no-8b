@@ -1,6 +1,6 @@
 # Module 5 - Problem Set No. 8B
 
-This repository contains all of files you need to complete Problem Set 8A.
+This repository contains all of files you need to complete Problem Set 8B.
 
 This repository contains 2 files:
 
@@ -12,8 +12,8 @@ This repository contains 2 files:
 
 This assignment contains 4 problems.
 
-- Problem 1 is worth **25 points**
-- Problem 2 is worth **25 points**
+- Problem 1 is worth **50 points**
+- Problem 2 is worth **50 points**
 
 If you have any questions, please ask them in the #questions channel on Slack. I'm happy to assist.
 
